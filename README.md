@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/iamrosada/Leaflet-react-ts.git
+git clone https://github.com/Suhayli002/Leaflet-react-ts.git
 cd Leaflet-react-ts
 ```
 
